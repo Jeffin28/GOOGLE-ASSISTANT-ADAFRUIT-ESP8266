@@ -82,7 +82,7 @@ ESP8266 core version that I have tested is `2.4.2`.
 ## Working & Testing 
 Demonstration of `publish` and `subscribe` between **ESP8266** and **Adafruit_IO** dashboard described in the documentation from ***page No:3 to 5***. 
 
-WiFi Connection status :
+**WiFi Connection status** :
 
 <p><br>
 <p align="center">
