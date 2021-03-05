@@ -59,7 +59,7 @@ Here we have some points to note:
 <p><br> 
   
    - Open **ada.cpp** and fill your credentials here 👇 . For more info refer the document page ***number 2***.
-   - Open the source code and do changes by Adafruit IO USERNAME & KEY.     
+   - Open the source code and do changes by Adafruit IO **USERNAME & KEY**.     
       
 <p align="center">
   <img src="IMG/Screenshot%20(136).png" width="700" align="center">
