@@ -98,7 +98,7 @@ Initial **Publish** and **Subscribe** status:
   <img src="IMG/Screenshot%20(142).png" width="600" align="center">
 </p 
  
-Subscribed message on ***ESP8266*** serial monitor from ***Adafruit_IO*** :
+- Subscribed message on ***ESP8266*** serial monitor from ***Adafruit_IO*** :
 
 <p><br>
 <p align="center">
